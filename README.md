@@ -44,3 +44,16 @@ A simple, modern, and user-friendly desktop application to hide and reveal secre
 4. The secret message will be extracted and displayed.
 
 💡 The **status bar** at the bottom provides real-time feedback, quick info, and access to the About dialog.
+
+
+
+image-steganography-app/
+│
+├── assets/               # Images/icons used in the UI
+├── encoder.py            # Encoding logic
+├── decoder.py            # Decoding logic
+├── ui.py                 # Tkinter GUI components
+├── utils.py              # Helper functions
+├── main.py               # Entry point for the app
+└── README.md             # Project documentation
+
