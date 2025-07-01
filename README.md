@@ -47,13 +47,4 @@ A simple, modern, and user-friendly desktop application to hide and reveal secre
 
 
 
-image-steganography-app/
-│
-├── assets/               # Images/icons used in the UI
-├── encoder.py            # Encoding logic
-├── decoder.py            # Decoding logic
-├── ui.py                 # Tkinter GUI components
-├── utils.py              # Helper functions
-├── main.py               # Entry point for the app
-└── README.md             # Project documentation
 
